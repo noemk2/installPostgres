@@ -1,2 +1,4 @@
-# installPostgres
-Install and backup your Data Base (Postgres) with Bash || Instala y respalda tu Base de datos
+# Welcome to installPostgres
+Use only on Ubuntu or Debian 
+<br/>
+soon... archLinux
